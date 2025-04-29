@@ -1,4 +1,4 @@
-﻿# Implementation of the minimax algorithm and alpha-beta pruning
+﻿# Implementation of the minimax algorithm and alpha-beta pruning in tic-tac-toe
 
 ## Overview
 
